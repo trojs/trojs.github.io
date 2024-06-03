@@ -1,8 +1,8 @@
 ## TroJS 🎠
 
-Tro is Swedish for trust.
+Tro is Swedish for trust, believe, faith.
 
-So it refer to Trust Javascript.
+So it refer to Trust Javascript, and we believe in Javascript.
 
 🙋‍♀️ Useful framework agnostic helpers
 
